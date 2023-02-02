@@ -1,0 +1,27 @@
+.d-block {
+    height: 485px;
+}
+h3{
+    color: darkmagenta;
+}
+.main1{
+    background-color: darkmagenta;
+    color: aliceblue;
+}
+.col-8{
+    background-color: darkmagenta;
+}
+
+.col-md-4{
+    background-color: darkmagenta;
+}
+
+.btn{
+    background-color: darkviolet;
+
+}
+
+.btn:hover {
+    background-color: aliceblue;
+    color: darkmagenta;
+}
