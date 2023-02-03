@@ -25,3 +25,55 @@ h3{
     background-color: aliceblue;
     color: darkmagenta;
 }
+
+.d-block{
+    width: 1238px;
+    margin-left: 15px;
+}
+
+body{
+    width: 98%;
+}
+
+#a1{
+    color: blueviolet;
+    margin-left: 42%;
+}
+span{
+    color: rgb(142, 108, 174);
+}
+
+#a3{
+    height: 325px;
+    width: 500px;
+}
+
+.col-5{
+    /* animation: anim 2s ease-in 2s infinite; */
+    /* transition: 2s ease-in-out; */
+    /* transform: scale(2.5); */
+
+} 
+.col-5:hover{
+    animation-play-state: paused;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.card-img-top{
+    width: 306px;
+}
+
+.card{
+   
+} 
+.card:hover{
+    animation-play-state: paused;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.card-title{
+    color: rgb(94, 29, 155);
+}
+
